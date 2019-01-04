@@ -1,1 +1,1 @@
-Assignments solved while auditing CS162
+Notes and Assignments solved while auditing CS162
